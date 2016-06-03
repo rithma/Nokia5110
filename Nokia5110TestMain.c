@@ -1,23 +1,7 @@
-// Nokia5110TestMain.c
-// Runs on LM4F120/TM4C123
-// Test the functions in Nokia5110.c by printing various
-// things to the LCD.
-// Daniel Valvano
-// September 16, 2013
 
 // Font table, initialization, and other functions based
 // off of Nokia_5110_Example from Spark Fun:
-// 7-17-2011
-// Spark Fun Electronics 2011
-// Nathan Seidle
-// http://dlnmh9ip6v2uc.cloudfront.net/datasheets/LCD/Monochrome/Nokia_5110_Example.pde
 
-/* This example accompanies the book
-   "Embedded Systems: Real Time Interfacing to Arm Cortex M Microcontrollers",
-   ISBN: 978-1463590154, Jonathan Valvano, copyright (c) 2013
- Copyright 2013 by Jonathan W. Valvano, valvano@mail.utexas.edu
-
- */
 
 
 // Red SparkFun Nokia 5110 (LCD-10168)
