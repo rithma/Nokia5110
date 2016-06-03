@@ -120,7 +120,7 @@ int main(void){
   Nokia5110_Clear();
   Nokia5110_OutString("************ THRILLDO ********** presents  *   *** The ***   MaStUrBm8 ********************** ");
 	///("************* THRILLDO *************Letter: Num:------- ---- ");
-  Nokia5110_OutChar(127);               // print UT sign
+  Nokia5110_OutChar(127);               //
   while(1){
     Nokia5110_SetCursor(5, 5);          // five leading spaces, bottom row
     Nokia5110_OutChar((count%26)+'A');
